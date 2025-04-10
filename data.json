@@ -363,5 +363,10 @@
     "index": 72,
     "spell": "Mind-Hack",
     "use": "Hacks the minds of up to 3 nearby enemies, stunning them for 3s. While hacked, the enemies take 25% more damage"
+  },
+  {
+    "index": 73,
+    "spell": "FROZEN",
+    "use": "Заморожує жертву"
   }
 ]
