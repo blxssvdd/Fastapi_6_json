@@ -1,0 +1,367 @@
+[
+  {
+    "spell": "Accio",
+    "use": "Закляття призову",
+    "index": 0
+  },
+  {
+    "spell": "Glisseo",
+    "use": "Перетворює сходи на гірку",
+    "index": 1
+  },
+  {
+    "spell": "Impervius",
+    "use": "Захищає чаклуна від різних речовин, включаючи воду та вогонь",
+    "index": 2
+  },
+  {
+    "spell": "Wingardium Leviosa/Locomotor",
+    "use": "Змушує об'єкти левітувати",
+    "index": 3
+  },
+  {
+    "spell": "Scourgify",
+    "use": "Чистить речі",
+    "index": 4
+  },
+  {
+    "spell": "Portus",
+    "use": "Створює портключ",
+    "index": 5
+  },
+  {
+    "spell": "Orchideous",
+    "use": "Змушує квіти виростати з кінця чарівної палички",
+    "index": 6
+  },
+  {
+    "spell": "Lumos",
+    "use": "Змушує чарівну паличку випромінювати світло",
+    "index": 7
+  },
+  {
+    "spell": "Reparo",
+    "use": "Відновлює зламані об'єкти",
+    "index": 8
+  },
+  {
+    "spell": "Reducio",
+    "use": "Зменшує об'єкти",
+    "index": 9
+  },
+  {
+    "spell": "Pack",
+    "use": "Пакує валізи та багаж",
+    "index": 10
+  },
+  {
+    "spell": "Riddikulus",
+    "use": "Перетворює Богута на смішну форму",
+    "index": 11
+  },
+  {
+    "spell": "Protego",
+    "use": "Захищає чаклуна від проклять",
+    "index": 12
+  },
+  {
+    "spell": "Muffliato",
+    "use": "Не дозволяє іншим підслуховувати розмови",
+    "index": 13
+  },
+  {
+    "spell": "Silencio/Langlock",
+    "use": "Змушує людину перестати говорити (прилипання язика до піднебіння)",
+    "index": 14
+  },
+  {
+    "spell": "Expelliarmus",
+    "use": "Закляття роззброєння",
+    "index": 15
+  },
+  {
+    "spell": "Oblivate",
+    "use": "Стирає спогади",
+    "index": 16
+  },
+  {
+    "spell": "Episkey",
+    "use": "Лікує дрібні травми",
+    "index": 17
+  },
+  {
+    "spell": "Tergeo",
+    "use": "Очищає поверхні",
+    "index": 18
+  },
+  {
+    "spell": "Relashio",
+    "use": "Змушує ціль відпустити все, що вона тримає",
+    "index": 19
+  },
+  {
+    "spell": "Confundo",
+    "use": "Спричиняє замішання та робить інших вразливими до впливу",
+    "index": 20
+  },
+  {
+    "spell": "Expecto Patronum",
+    "use": "Закляття Патронуса",
+    "index": 21
+  },
+  {
+    "spell": "Ferula",
+    "use": "Накладає бинти",
+    "index": 22
+  },
+  {
+    "spell": "Evanesco",
+    "use": "Закляття зникнення",
+    "index": 23
+  },
+  {
+    "spell": "Alohomora",
+    "use": "Відчиняє замки",
+    "index": 24
+  },
+  {
+    "spell": "Nox",
+    "use": "Вимикає закляття люмос",
+    "index": 25
+  },
+  {
+    "spell": "Quietus",
+    "use": "Зменшує голос, підсилений магією",
+    "index": 26
+  },
+  {
+    "spell": "Incendio",
+    "use": "Створює вогонь",
+    "index": 27
+  },
+  {
+    "spell": "Homenum Revelio",
+    "use": "Розкриває людей поблизу",
+    "index": 28
+  },
+  {
+    "spell": "Prior Incantato",
+    "use": "Розкриває останнє закляття, накладене паличкою",
+    "index": 29
+  },
+  {
+    "spell": "Finite Incantatem",
+    "use": "Скасовує ефекти багатьох заклять",
+    "index": 30
+  },
+  {
+    "spell": "Erecto",
+    "use": "Ставить намети або інші споруди",
+    "index": 31
+  },
+  {
+    "spell": "Diffindo",
+    "use": "Ріже або розрізає матеріал",
+    "index": 32
+  },
+  {
+    "spell": "Stupefy",
+    "use": "Оглушає ціль",
+    "index": 33
+  },
+  {
+    "spell": "Repelo Muggletum",
+    "use": "Відлякує маґлів",
+    "index": 34
+  },
+  {
+    "spell": "Avada Kedavra",
+    "use": "Закляття вбивства",
+    "index": 35
+  },
+  {
+    "spell": "Aguamenti",
+    "use": "Стріляє водою з чарівної палички",
+    "index": 36
+  },
+  {
+    "spell": "Geminio",
+    "use": "Створює тимчасову, безцінну копію будь-якого об'єкта",
+    "index": 37
+  },
+  {
+    "spell": "Locomotor Mortis",
+    "use": "Прокляття знерухомлення ніг",
+    "index": 38
+  },
+  {
+    "spell": "Anapneo",
+    "use": "Очищає дихальні шляхи",
+    "index": 39
+  },
+  {
+    "spell": "Reducto",
+    "use": "Вибухає об'єкт",
+    "index": 40
+  },
+  {
+    "spell": "Obscuro",
+    "use": "Зав'язує очі цілі",
+    "index": 41
+  },
+  {
+    "spell": "Impedimenta",
+    "use": "Заморожує тих, хто наближається",
+    "index": 42
+  },
+  {
+    "spell": "Cave Inimicum/Protego Totalum",
+    "use": "Зміцнює захист області",
+    "index": 43
+  },
+  {
+    "spell": "Meteolojinx Recanto",
+    "use": "Знімає ефекти заклять на погоду",
+    "index": 44
+  },
+  {
+    "spell": "Specialis Revelio",
+    "use": "Розкриває приховані магічні властивості об'єкта",
+    "index": 45
+  },
+  {
+    "spell": "Descendo",
+    "use": "Переміщує об'єкти вниз",
+    "index": 46
+  },
+  {
+    "spell": "Defodio",
+    "use": "Ріже камінь і сталь",
+    "index": 47
+  },
+  {
+    "spell": "Aparecium",
+    "use": "Робить невидиме чорнило видимим",
+    "index": 48
+  },
+  {
+    "spell": "Piertotum Locomotor",
+    "use": "Анімує статуї",
+    "index": 49
+  },
+  {
+    "spell": "Imperio",
+    "use": "Змушує ціль виконувати всі команди",
+    "index": 50
+  },
+  {
+    "spell": "Fidelius Charm",
+    "use": "Прив'язує таємницю до душі її охоронця",
+    "index": 51
+  },
+  {
+    "spell": "Avis/Oppugno",
+    "use": "Випускає з палички зграю птахів",
+    "index": 52
+  },
+  {
+    "spell": "Expulso",
+    "use": "Знищує об'єкти",
+    "index": 53
+  },
+  {
+    "spell": "Legilimens",
+    "use": "Розкриває спогади та думки цілі",
+    "index": 54
+  },
+  {
+    "spell": "Duro",
+    "use": "Затверджує об'єкти",
+    "index": 55
+  },
+  {
+    "spell": "Sonorus",
+    "use": "Посилює голос",
+    "index": 56
+  },
+  {
+    "spell": "Deprimo",
+    "use": "Створює великий тиск вниз",
+    "index": 57
+  },
+  {
+    "spell": "Levicorpus",
+    "use": "Левітує ціль за щиколотку",
+    "index": 58
+  },
+  {
+    "spell": "Liberacorpus",
+    "use": "Опускає ціль із закляття левікорпус",
+    "index": 59
+  },
+  {
+    "spell": "Mobilicorpus",
+    "use": "Переміщує тіла",
+    "index": 60
+  },
+  {
+    "spell": "Confringo",
+    "use": "Вибухає об'єкти у вогні",
+    "index": 61
+  },
+  {
+    "spell": "Densaugeo",
+    "use": "Прискорює ріст зубів",
+    "index": 62
+  },
+  {
+    "spell": "Incarcarous",
+    "use": "Обмотує когось мотузками",
+    "index": 63
+  },
+  {
+    "spell": "Deletrius",
+    "use": "Скасовує ефекти попереднього закляття інкантато",
+    "index": 64
+  },
+  {
+    "spell": "Rictusempra",
+    "use": "Закляття лоскоту",
+    "index": 65
+  },
+  {
+    "spell": "Petrificus Totalus",
+    "use": "Повністю знерухомлює ціль",
+    "index": 66
+  },
+  {
+    "spell": "Fiendfyre Curse",
+    "use": "Створює проклятий вогонь",
+    "index": 67
+  },
+  {
+    "spell": "Tarantallegra",
+    "use": "Змушує ціль танцювати",
+    "index": 68
+  },
+  {
+    "spell": "Morsmordre",
+    "use": "Викликає Темну Мітку",
+    "index": 69
+  },
+  {
+    "spell": "Sectumsempra",
+    "use": "Спричиняє важкі порізи",
+    "index": 70
+  },
+  {
+    "spell": "Crucio",
+    "use": "Спричиняє нестерпний біль",
+    "index": 71
+  },
+  {
+    "index": 72,
+    "spell": "Mind-Hack",
+    "use": "Hacks the minds of up to 3 nearby enemies, stunning them for 3s. While hacked, the enemies take 25% more damage"
+  }
+]
